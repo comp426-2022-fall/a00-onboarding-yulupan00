@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin YuludeMacBook-Pro.local 20.6.0 Darwin Kernel Version 20.6.0: Wed Jan 12 22:22:42 PST 2022; root:xnu-7195.141.19~2/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.32.0 (Apple Git-132)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Nov  1 2021 21:44:09)
+CURL:	[/usr/bin/curl] curl 7.64.1 (x86_64-apple-darwin20.0) libcurl/7.64.1 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.41.0
+NODE:	[/Users/yulupan/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
